@@ -1,0 +1,13 @@
+C:\Users\Jurgen\source\repos\Neddle\Neddle\bin\Debug\netcoreapp3.1\Neddle.exe
+C:\Users\Jurgen\source\repos\Neddle\Neddle\bin\Debug\netcoreapp3.1\Neddle.deps.json
+C:\Users\Jurgen\source\repos\Neddle\Neddle\bin\Debug\netcoreapp3.1\Neddle.runtimeconfig.json
+C:\Users\Jurgen\source\repos\Neddle\Neddle\bin\Debug\netcoreapp3.1\Neddle.runtimeconfig.dev.json
+C:\Users\Jurgen\source\repos\Neddle\Neddle\bin\Debug\netcoreapp3.1\Neddle.dll
+C:\Users\Jurgen\source\repos\Neddle\Neddle\bin\Debug\netcoreapp3.1\Neddle.pdb
+C:\Users\Jurgen\source\repos\Neddle\Neddle\obj\Debug\netcoreapp3.1\Neddle.csprojAssemblyReference.cache
+C:\Users\Jurgen\source\repos\Neddle\Neddle\obj\Debug\netcoreapp3.1\Neddle.AssemblyInfoInputs.cache
+C:\Users\Jurgen\source\repos\Neddle\Neddle\obj\Debug\netcoreapp3.1\Neddle.AssemblyInfo.cs
+C:\Users\Jurgen\source\repos\Neddle\Neddle\obj\Debug\netcoreapp3.1\Neddle.csproj.CoreCompileInputs.cache
+C:\Users\Jurgen\source\repos\Neddle\Neddle\obj\Debug\netcoreapp3.1\Neddle.dll
+C:\Users\Jurgen\source\repos\Neddle\Neddle\obj\Debug\netcoreapp3.1\Neddle.pdb
+C:\Users\Jurgen\source\repos\Neddle\Neddle\obj\Debug\netcoreapp3.1\Neddle.genruntimeconfig.cache
